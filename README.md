@@ -1,9 +1,9 @@
 <div align="center">
   <br />
-  <h1>Vice Forge: Premium Web Templates & Builder</h1>
+  <h1>Vice Forge: Custom Loading Screen Builder For FiveM, RedM, Garry's Mod, and RP Servers</h1>
 
   <p>
-    <strong>The Ultimate Web Design & Templating Experience for Modern Brands</strong>
+    <strong>The Ultimate Loading Screen Experience for Modern Roleplay and Gaming Servers</strong>
   </p>
 
   [![Premium Quality](https://img.shields.io/badge/Quality-Premium-gold.svg)](https://vice-forge.com)
@@ -21,7 +21,7 @@
 
 ## 🌟 Transform Your Digital Presence
 
-Welcome to **Vice Forge**. We provide modern, high-converting, and premium templates designed to captivate your audience and drive results. Whether you need a sleek landing page, a dynamic portfolio, or specialized templates like **custom FiveM loading screens**, our platform has exactly what you need.
+Welcome to **Vice-Forge**. We provide modern, high-converting, and premium templates designed to captivate your audience and drive results. Whether you need a sleek landing page, a dynamic portfolio, or specialized templates like **custom FiveM, RedM, and GMod loading screens**, our platform has exactly what you need.
 
 > **Stop blending in. Start standing out.** <br/>
 > 👉 **[Explore Our Premium Templates at Vice-Forge.com](https://vice-forge.com)** 
@@ -42,11 +42,11 @@ When you choose **[Vice Forge](https://vice-forge.com)**, you're not just gettin
 
 ---
 
-## 🎮 Specialized Niches: FiveM & Gaming
+## 🎮 Specialized Niches: Server Loading Screens
 
 Running a gaming community? First impressions are everything. Vice Forge offers highly sought-after, premium designs tailored for gamers, including:
 
-* **Advanced FiveM Loading Screens**: Featuring smooth progress animations, integrated music players, and fully customizable rules/team displays.
+* **Advanced Loading Screens**: Seamlessly integrated templates tailored for **FiveM**, **RedM**, and **Garry's Mod (GMod)**. Featuring smooth progress animations, integrated music players, YouTube backgrounds, and fully customizable rules/team displays.
 * **Community Portals**: Give your players a professional hub to interact, read the lore, and support the server.
 
 🔗 **[Upgrade Your Server's Look Today](https://vice-forge.com)**
